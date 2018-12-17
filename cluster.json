@@ -1,0 +1,18 @@
+{
+    "__default__": {
+        "mem": "12g",
+        "threads": "4"
+    },
+    "qualimap": {
+        "threads": "8",
+        "mem": "48g"
+    },
+    "varianteval":{
+    	"threads":"4",
+    	"mem":"48g"
+    },
+    "fastqc_fastaq":{
+    	"threads":"10",
+    	"mem":"20g"
+    }
+}
