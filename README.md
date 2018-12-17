@@ -9,4 +9,4 @@ Tools include
   - SNPeff
   - BCFtools
   - MultiQC
- # If using this Snakemake, Please acknowledge (NIH/NIAID)
+ ** If using this Snakemake, Please acknowledge (NIH/NIAID)**
